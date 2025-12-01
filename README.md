@@ -1,4 +1,5 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=Emotion%20Recognition%20+%20Music%20AI&fontSize=28&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:4b4b4b&height=110&section=header&text=Real-Time%20Emotion%20Recognition%20and%20Music%20Recommendation%20System&fontSize=22&fontColor=ffffff&animation=fadeIn)
+
 
 
 
