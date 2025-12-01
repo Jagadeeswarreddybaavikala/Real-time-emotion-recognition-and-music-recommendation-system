@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=Emotion%20Recognition%20+%20Music%20AI&fontSize=28&fontColor=ffffff)
+
 🎵 Real-Time Emotion Recognition & Music Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
