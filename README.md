@@ -1,4 +1,6 @@
-![banner](https://capsule-render.vercel.app/api?type=wave&color=0:2a0845,100:6441a5&height=150&section=header&text=Real-Time%20Emotion%20AI%20with%20Music%20Intelligence&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Deep%20Learning%20+%20OpenCV%20+%20TensorFlow&descAlignY=60&descAlign=50)
+![banner](https://capsule-render.vercel.app/api?type=wave&color=0:2a0845,100:6441a5&height=150&section=header&text=Real-
+
+Time%20Emotion%20AI%20with%20Music%20Intelligence&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Deep%20Learning%20+%20OpenCV%20+%20TensorFlow&descAlignY=60&descAlign=50)
 
 
 🎵 Real-Time Emotion Recognition & Music Recommendation System
