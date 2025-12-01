@@ -1,0 +1,61 @@
+EMOTION CLASSIFICATION REPORT
+======================================================================
+Dataset: FER-2013 (32,000+ images)
+Model: Convolutional Neural Network (CNN)
+Architecture: 4 Conv Blocks with BatchNormalization & Dropout
+Training Epochs: 50
+Training Samples: 28709
+Test Samples: 7178
+
+PER-EMOTION PERFORMANCE:
+----------------------------------------------------------------------
+
+angry:
+  Precision: 0.6105 (61.05%)
+  Recall:    0.5365 (53.65%)
+  F1-Score:  0.5711
+  Support:   958
+  
+disgust:
+  Precision: 0.6279 (62.79%)
+  Recall:    0.4865 (48.65%)
+  F1-Score:  0.5482
+  Support:   111
+
+fear:
+  Precision: 0.5744 (57.44%)
+  Recall:    0.3770 (37.70%)
+  F1-Score:  0.4552
+  Support:   1024
+
+happy:
+  Precision: 0.8133 (81.33%)
+  Recall:    0.8641 (86.41%)
+  F1-Score:  0.8379
+  Support:   1774
+
+neutral:
+  Precision: 0.5886 (58.86%)
+  Recall:    0.6172 (61.72%)
+  F1-Score:  0.6025
+  Support:   1233
+
+sad:
+  Precision: 0.4739 (47.39%)
+  Recall:    0.6047 (60.47%)
+  F1-Score:  0.5314
+  Support:   1247
+
+surprise:
+  Precision: 0.7849 (78.49%)
+  Recall:    0.7641 (76.41%)
+  F1-Score:  0.7744
+  Support:   831
+
+
+OVERALL METRICS:
+======================================================================
+Weighted Precision: 0.6484
+Weighted Recall:    0.6460
+Weighted F1-Score:  0.6422
+Overall Accuracy:   0.6460 (64.60%)

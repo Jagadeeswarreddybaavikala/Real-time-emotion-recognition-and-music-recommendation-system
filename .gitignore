@@ -1,0 +1,19 @@
+# Virtual environments
+venv311/
+venv312/
+venv*/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Caches
+.cache/
+
+# (Optional) large data / results if very big
+# data/
+# project_results/
