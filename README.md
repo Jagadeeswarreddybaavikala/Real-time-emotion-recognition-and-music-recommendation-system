@@ -1,5 +1,11 @@
 🎵 Real-Time Emotion Recognition & Music Recommendation System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 A machine learning–powered system that detects human emotions in real time using facial expressions and automatically recommends music based on the detected emotion.
 This project combines computer vision, deep learning, and intelligent music mapping to create an interactive, mood-aware experience.
 
