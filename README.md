@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4834DF,100:00D4FF&height=150&section=header&text=Emotion%20Recognition%20+%20Music%20AI&fontSize=32&fontColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=150&section=header&text=Emotion%20Recognition%20System&fontSize=32&fontColor=00ffea)
 
 🎵 Real-Time Emotion Recognition & Music Recommendation System
 
